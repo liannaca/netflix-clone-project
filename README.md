@@ -9,7 +9,7 @@ It mimics the visual style and layout of the original Netflix homepage, with a c
 - Built for **educational & portfolio purposes only** (no commercial use).
 
 🚀 Live Demo  
-[🔗 Click to view site](https://yourusername.github.io/netflix-landing-clone/)  
+🔗 Click to view my site https://liannaca.github.io/netflix-clone-project/ 
 
 ✨ Features
 
