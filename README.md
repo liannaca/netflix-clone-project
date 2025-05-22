@@ -9,7 +9,7 @@ It mimics the visual style and layout of the original Netflix homepage, with a c
 - Built for **educational & portfolio purposes only** (no commercial use).
 
 🚀 Live Demo  
-🔗 Click to view my site https://liannaca.github.io/netflix-clone-project/ 
+🔗 Click to view my site [https://liannaca.github.io/netflix-clone-project/ ](https://netflix-clone-project-kappa.vercel.app/)
 
 ✨ Features
 
